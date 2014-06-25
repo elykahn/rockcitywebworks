@@ -184,7 +184,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
-  margin: 0.83em 0;
+  margin: 0.7em 0;
 }
 
 h3 {
@@ -529,10 +529,10 @@ table {
 }
 
 body {
-  padding: 0px 0 20px 0px;
+  padding: 5px 2px 20px 0px;
   margin: 0px;
-  font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #f0e7d5;
+  font: 16px/1.75 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #999999;
   font-weight: normal;
   background: #252525;
   background-attachment: fixed !important;
@@ -605,7 +605,7 @@ strong {
 }
 
 .wrapper {
-  max-width: 650px;
+  max-width: 750px;
   margin: 0 auto;
   position: relative;
   padding: 0 20px;
